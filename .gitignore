@@ -1,0 +1,7 @@
+
+tests_output/*
+/node_modules
+/tests
+/client/node_modules
+/nightwatch.json
+/client/src/component
